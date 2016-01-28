@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Kihra" APIVersion="10" Name="WildStarLogger" Description="An add-on that stores combat log information so that it can be uploaded to wildstarlogs.com." Version="1.0">
+    <Script Name="WildStarLogger.lua"/>
+    <Form Name="WildStarLogger.xml"/>
+</Addon>
